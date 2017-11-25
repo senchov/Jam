@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\C#\AIMComponent.cs">
+    <Files>
+      <File FileName="Assets\C#\InputController.cs" Line="25" Column="39" />
+      <File FileName="Assets\C#\PlayerController.cs" Line="21" Column="6" />
+      <File FileName="Assets\C#\Bullet.cs" Line="22" Column="1" />
+      <File FileName="Assets\C#\ShootComponent.cs" Line="17" Column="1" />
+      <File FileName="Assets\C#\TagsConstants.cs" Line="6" Column="37" />
+      <File FileName="Assets\C#\AIMComponent.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\files\murka\jam\BootHill\Assets\C#\ShootComponent.cs" line="12" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
